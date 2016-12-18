@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://atlier.der.a.com/images/cactus.jpg</loc>
-    <lastmod>2016-11-04</lastmod>
+    <loc>http://atlier.der.a.com/assets/tecb_variation.wav</loc>
+    <lastmod>2016-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://atlier.der.a.com/images/road.jpg</loc>
-    <lastmod>2016-11-04</lastmod>
+    <loc>http://atlier.der.a.com/assets/tecb.mp3</loc>
+    <lastmod>2016-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://atlier.der.a.com/images/trees.jpg</loc>
-    <lastmod>2016-11-04</lastmod>
+    <loc>http://atlier.der.a.com/images/tecb2.jpg</loc>
+    <lastmod>2016-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://atlier.der.a.com/index.html</loc>
-    <lastmod>2016-11-04</lastmod>
+    <lastmod>2016-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
