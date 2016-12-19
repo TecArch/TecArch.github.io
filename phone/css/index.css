@@ -1,0 +1,103 @@
+.version.index /* version checker */
+{
+	color: #0000E0;
+	background-color: #23E0D7;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 300px;
+	min-height: 316px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding: 153px 47px 101px 33px;
+}
+
+#u177-8
+{
+	z-index: 2;
+	width: 76px;
+	min-height: 100px;
+	background-color: transparent;
+	position: fixed;
+	top: 20px;
+	left: 25px;
+}
+
+#u178
+{
+	z-index: 10;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u180
+{
+	z-index: 11;
+	width: 272px;
+	background-color: transparent;
+	margin-left: 8px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#u180_clip
+{
+	overflow: hidden;
+	width: 272px;
+	height: 233px;
+}
+
+#u180_img
+{
+	margin: -5px 3px -7px 24px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

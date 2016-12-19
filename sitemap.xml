@@ -17,5 +17,6 @@
     <lastmod>2016-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://atlier.der.a.com/phone/index.html"/>
   </url>
 </urlset>
