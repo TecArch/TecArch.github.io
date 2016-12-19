@@ -1,20 +1,19 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1482087957105">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1482158824475">
+  <folder name="assets">
+    <file name="tecb_variation.mp3" crc="391059753" seo="true" mt="1482158704000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="436133249" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="tecb_variation.wav" crc="4121985397" seo="true" mt="1481925463000"/>
-    <file name="tecb.mp3" crc="4167513808" seo="true" mt="1482086556000"/>
+    <file name="index.css" crc="211443111" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
     <file name="museutils.js" crc="183364071" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
     <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
   </folder>
   <folder name="images">
     <file name="tecb2.jpg" crc="3792546515" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4222265435" seo="true" mt="1482087952618" redirect="true"/>
+  <file name="index.html" crc="3997883470" seo="true" mt="1482158812496" redirect="true"/>
 </manifest>
