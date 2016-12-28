@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E0;
-	background-color: #23E0D7;
+	color: #000010;
+	background-color: #CCE2C5;
 }
 
 @-ms-viewport
@@ -37,13 +37,20 @@
 #page
 {
 	z-index: 1;
-	width: 300px;
-	min-height: 316px;
+	width: 380px;
+	min-height: 569.9288159937107px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding: 153px 47px 101px 33px;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-bottom: -1176px;
+	padding-top: 570px;
+	width: 0.01px;
 }
 
 #u177-8
@@ -53,8 +60,15 @@
 	min-height: 100px;
 	background-color: transparent;
 	position: fixed;
-	top: 20px;
-	left: 25px;
+	top: 37px;
+	left: 40px;
+}
+
+#pu178
+{
+	width: 0.01px;
+	padding-bottom: 107px;
+	margin-left: -1px;
 }
 
 #u178
@@ -66,34 +80,104 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 261px;
+	left: 49px;
 }
 
-#u180
+#u214
+{
+	z-index: 14;
+	width: 597px;
+	background-color: transparent;
+	-webkit-transform: matrix(0,-1,1,0,107,489);
+	-ms-transform: matrix(0,-1,1,0,107,489);
+	transform: matrix(0,-1,1,0,107,489);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 107px;
+	left: -107px;
+}
+
+#u217
+{
+	z-index: 16;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 172px;
+	left: 36px;
+}
+
+#u219-8
+{
+	z-index: 17;
+	width: 337px;
+	min-height: 43px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 219px;
+	left: 45px;
+}
+
+#u219,#u219-3,#u219-5
+{
+	font-family: Courier New, Courier, monospace;
+}
+
+#pu203
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
+#u203
 {
 	z-index: 11;
-	width: 272px;
+	width: 380px;
 	background-color: transparent;
-	margin-left: 8px;
-	margin-top: 48px;
 	position: relative;
+	margin-right: -10000px;
 }
 
-#u180_clip
+#u206
 {
-	overflow: hidden;
-	width: 272px;
-	height: 233px;
+	z-index: 13;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 242px;
+	left: 31px;
 }
 
-#u180_img
+#u220-8
 {
-	margin: -5px 3px -7px 24px;
+	z-index: 25;
+	width: 342px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 286px;
+	left: 38px;
 }
 
 body
 {
 	position: relative;
 	min-width: 380px;
+	padding-bottom: 1177px;
 }
 
 #page .verticalspacer

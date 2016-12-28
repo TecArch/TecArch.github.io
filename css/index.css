@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #45655E;
+	color: #00001D;
+	background-color: #7CB5C6;
 }
 
 .html
@@ -25,13 +25,13 @@
 #page_position_content
 {
 	margin-bottom: -1382px;
-	padding-top: 539px;
+	padding-top: 540px;
 	width: 0.01px;
 }
 
 #u75-8
 {
-	z-index: 3;
+	z-index: 4;
 	width: 76px;
 	min-height: 100px;
 	background-color: transparent;
@@ -40,32 +40,25 @@
 	left: 25px;
 }
 
-#pu185
+#pu208
 {
 	width: 0.01px;
 	margin-left: -101px;
 }
 
-#u185
+#u208
 {
 	z-index: 2;
-	width: 318px;
-	background-color: #000000;
+	width: 666px;
+	background-color: transparent;
+	-webkit-transform: matrix(0,-1,1,0,-248,914);
+	-ms-transform: matrix(0,-1,1,0,-248,914);
+	transform: matrix(0,-1,1,0,-248,914);
+	margin-bottom: -248px;
 	position: relative;
 	margin-right: -10000px;
-	padding: 313px 419px 253.10000000000002px 425px;
-}
-
-#u120
-{
-	z-index: 11;
-	width: 300px;
-	min-height: 35px;
-	border-width: 9px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	position: relative;
+	margin-top: -248px;
+	left: 248px;
 }
 
 #u186-6
@@ -76,9 +69,10 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	font-family: Courier New, Courier, monospace;
-	margin-left: 22px;
-	margin-top: 11px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 571px;
+	left: 81px;
 }
 
 #u186,#u186-3
@@ -90,20 +84,33 @@
 #u188
 {
 	z-index: 18;
-	width: 893px;
+	width: 1083px;
 	height: 2px;
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 409px;
-	left: 447px;
+	margin-top: 603px;
+	left: 79px;
+}
+
+#u120
+{
+	z-index: 29;
+	width: 300px;
+	min-height: 35px;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 528px;
+	left: 80px;
 }
 
 #pu197
 {
 	width: 0.01px;
 	margin-left: -101px;
-	margin-top: 2px;
+	margin-top: -1px;
 }
 
 #u197
@@ -159,7 +166,7 @@
 #u196
 {
 	z-index: 28;
-	width: 1106px;
+	width: 1090px;
 	height: 2px;
 	background-color: #FFFFFF;
 	position: relative;
