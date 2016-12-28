@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1482163859473">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1482938935768">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3760447703" ref="phone>index"/>
@@ -7,10 +7,12 @@
   </folder>
   <folder name="assets">
     <file name="tecb_variation.mp3" crc="391059753" seo="true" mt="1482158704000"/>
+    <file name="tecb_variation2.mp3" crc="391059753" seo="true" mt="1482158704000"/>
+    <file name="natu.mp3" crc="468636368" seo="true" mt="1482937583000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="211443111" ref="index"/>
+    <file name="index.css" crc="138765662" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index"/>
@@ -20,7 +22,8 @@
     <file name="museredirect.js" crc="40941066" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="tecb2.jpg" crc="3792546515" seo="true" ref="phone>index:index"/>
+    <file name="tecb2.jpg" crc="3792546515" seo="true" ref="phone>index"/>
+    <file name="dsc_0437.jpg" crc="3798931291" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="113721792" seo="true" mt="1482163804639" redirect="true"/>
+  <file name="index.html" crc="3813778293" seo="true" mt="1482938889736" redirect="true"/>
 </manifest>
