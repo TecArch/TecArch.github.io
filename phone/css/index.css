@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000018;
-	background-color: #1C2702;
+	color: #00001A;
+	background-color: #A7A2EE;
 }
 
 @-ms-viewport
@@ -38,24 +38,23 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.9999999999991px;
+	min-height: 589px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 }
 
 #page_position_content
 {
-	margin-bottom: -4108px;
-	padding-top: 621px;
+	margin-bottom: -4594px;
+	padding-top: 555px;
 	width: 0.01px;
 }
 
-#u177-13
+#u177-16
 {
-	z-index: 12;
+	z-index: 14;
 	width: 148px;
 	min-height: 100px;
 	background-color: transparent;
@@ -67,20 +66,123 @@
 	left: 40px;
 }
 
-#u177,#u177-7
+#u177
 {
 	text-decoration: underline;
+}
+
+#u177-8
+{
+	text-decoration: underline;
+	line-height: 20px;
+}
+
+#u177-5,#u177-9
+{
+	line-height: 20px;
+}
+
+#u177-7,#u177-11,#u177-14
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u177-12
+{
+	font-style: italic;
+	line-height: 20px;
+}
+
+#u177-6,#u177-10,#u177-13
+{
+	font-size: 10px;
+	line-height: 12px;
+}
+
+#pu423
+{
+	width: 0.01px;
+	padding-bottom: 44px;
+	margin-left: 24px;
+}
+
+#u423
+{
+	z-index: 2;
+	width: 477px;
+	background-color: transparent;
+	-webkit-transform: matrix(0,-1,1,0,73,404);
+	-ms-transform: matrix(0,-1,1,0,73,404);
+	transform: matrix(0,-1,1,0,73,404);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 73px;
+	left: -73px;
+}
+
+#u423_clip
+{
+	overflow: hidden;
+	width: 477px;
+	height: 332px;
+}
+
+#u423_img
+{
+	margin-right: -357px;
+}
+
+#u440
+{
+	z-index: 34;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 338px;
+	left: 7px;
+}
+
+#u447
+{
+	z-index: 35;
+	width: 300px;
+	min-height: 35px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 303px;
+	left: 7px;
+}
+
+#u442-8
+{
+	z-index: 67;
+	width: 342px;
+	min-height: 41px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 382px;
+	left: 14px;
 }
 
 #pu295
 {
 	width: 0.01px;
 	margin-left: 1px;
+	margin-top: 94px;
 }
 
 #u295
 {
-	z-index: 6;
+	z-index: 8;
 	width: 380px;
 	background-color: transparent;
 	position: relative;
@@ -102,7 +204,7 @@
 
 #u305
 {
-	z-index: 28;
+	z-index: 33;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -116,7 +218,7 @@
 
 #u307-8
 {
-	z-index: 52;
+	z-index: 59;
 	width: 342px;
 	min-height: 41px;
 	background-color: transparent;
@@ -130,12 +232,12 @@
 #pu410
 {
 	width: 0.01px;
-	margin-top: 94px;
+	margin-top: 93px;
 }
 
 #u410
 {
-	z-index: 2;
+	z-index: 4;
 	width: 380px;
 	background-color: transparent;
 	position: relative;
@@ -157,7 +259,7 @@
 
 #u418
 {
-	z-index: 29;
+	z-index: 36;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -171,7 +273,7 @@
 
 #u420-8
 {
-	z-index: 60;
+	z-index: 75;
 	width: 342px;
 	min-height: 41px;
 	background-color: transparent;
@@ -182,14 +284,9 @@
 	left: 38px;
 }
 
-#pu277
-{
-	width: 0.01px;
-}
-
 #u277
 {
-	z-index: 10;
+	z-index: 12;
 	width: 380px;
 	background-color: transparent;
 	position: relative;
@@ -211,7 +308,7 @@
 
 #u286
 {
-	z-index: 30;
+	z-index: 37;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -219,20 +316,20 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 327px;
+	margin-top: 326px;
 	left: 30px;
 }
 
 #u288-8
 {
-	z-index: 68;
+	z-index: 83;
 	width: 342px;
 	min-height: 41px;
 	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 371px;
+	margin-top: 370px;
 	left: 38px;
 }
 
@@ -245,7 +342,7 @@
 
 #u280
 {
-	z-index: 8;
+	z-index: 10;
 	width: 383px;
 	background-color: transparent;
 	position: relative;
@@ -266,7 +363,7 @@
 
 #u292
 {
-	z-index: 31;
+	z-index: 38;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -280,7 +377,7 @@
 
 #u294-8
 {
-	z-index: 76;
+	z-index: 91;
 	width: 342px;
 	min-height: 41px;
 	background-color: transparent;
@@ -300,7 +397,7 @@
 
 #u316
 {
-	z-index: 4;
+	z-index: 6;
 	width: 384px;
 	background-color: transparent;
 	position: relative;
@@ -323,7 +420,7 @@
 
 #u327
 {
-	z-index: 32;
+	z-index: 39;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -337,26 +434,26 @@
 
 #u329-8
 {
-	z-index: 84;
+	z-index: 99;
 	width: 342px;
 	min-height: 41px;
 	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 508px;
+	margin-top: 509px;
 	left: 41px;
 }
 
-#pu203
+#pu277,#pu203
 {
 	width: 0.01px;
-	margin-top: 2px;
+	margin-top: 1px;
 }
 
 #u203
 {
-	z-index: 25;
+	z-index: 30;
 	width: 380px;
 	background-color: transparent;
 	position: relative;
@@ -365,7 +462,7 @@
 
 #u206
 {
-	z-index: 27;
+	z-index: 32;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -373,20 +470,20 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 242px;
+	margin-top: 243px;
 	left: 32px;
 }
 
 #u220-8
 {
-	z-index: 44;
+	z-index: 51;
 	width: 342px;
 	min-height: 41px;
 	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 286px;
+	margin-top: 287px;
 	left: 39px;
 }
 
@@ -395,12 +492,11 @@
 	width: 0.01px;
 	padding-bottom: 107px;
 	margin-left: -2px;
-	margin-top: -1px;
 }
 
 #u404
 {
-	z-index: 33;
+	z-index: 40;
 	width: 597px;
 	background-color: transparent;
 	-webkit-transform: matrix(0,-1,1,0,107,489);
@@ -414,7 +510,7 @@
 
 #u407
 {
-	z-index: 35;
+	z-index: 42;
 	width: 300px;
 	min-height: 35px;
 	border-style: none;
@@ -422,13 +518,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 190px;
+	margin-top: 189px;
 	left: 36px;
 }
 
 #u409-8
 {
-	z-index: 36;
+	z-index: 43;
 	width: 337px;
 	min-height: 43px;
 	background-color: transparent;
@@ -448,7 +544,7 @@ body
 {
 	position: relative;
 	min-width: 380px;
-	padding-bottom: 4107px;
+	padding-bottom: 4595px;
 }
 
 #page .verticalspacer
