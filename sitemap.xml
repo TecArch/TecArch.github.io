@@ -31,6 +31,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://atlier.der.a.com/assets/om-namure.mp3</loc>
+    <lastmod>2017-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atlier.der.a.com/assets/stoner-chill-rock.mp3</loc>
+    <lastmod>2017-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://atlier.der.a.com/images/dsc_0437.jpg</loc>
     <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +62,18 @@
   </url>
   <url>
     <loc>http://atlier.der.a.com/images/giphy%20(1).gif</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atlier.der.a.com/images/giphy%20(2).gif</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atlier.der.a.com/images/giphy%20(3).gif</loc>
     <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

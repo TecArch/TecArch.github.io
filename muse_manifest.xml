@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1506370743528">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1506371782076">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3775748333" ref="phone>index"/>
+      <file name="index.css" crc="404498178" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3813396976" seo="true" mt="1506370738484" redirect="true"/>
+    <file name="index.html" crc="461586354" seo="true" mt="1506371776375" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="tecb_variation.mp3" crc="391059753" seo="true" mt="1482158704000"/>
@@ -11,6 +11,8 @@
     <file name="vadi_test.wav" crc="190875004" seo="true" mt="1495448032000"/>
     <file name="hall.wav" crc="4003800182" seo="true" mt="1495484050000"/>
     <file name="adm_prime.mp3" crc="3974604407" seo="true" mt="1504614972000"/>
+    <file name="om-namure.mp3" crc="271352955" seo="true" mt="1504615772000"/>
+    <file name="stoner-chill-rock.mp3" crc="3981386234" seo="true" mt="1504615854000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
@@ -24,13 +26,15 @@
     <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="20121112_103849-crop-u214.jpg" crc="11698573" ref="phone>index"/>
     <file name="dsc_0437-crop-u203.jpg" crc="3885919454" ref="phone>index"/>
     <file name="20121112_103849-crop-u208.jpg" crc="4169883816" ref="index"/>
     <file name="dsc_0437.jpg" crc="3798931291" seo="true" ref="index"/>
     <file name="1449671272044.jpg" crc="186552839" seo="true" ref="index:phone>index"/>
     <file name="giphy.gif" crc="387255731" seo="true" ref="index:phone>index"/>
     <file name="giphy (1).gif" crc="3891445880" seo="true" ref="phone>index"/>
+    <file name="giphy (2).gif" crc="4248948914" seo="true" ref="phone>index"/>
+    <file name="giphy (3).gif" crc="3771130860" seo="true" ref="phone>index"/>
+    <file name="20121112_103849-crop-u404.jpg" crc="11698573" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="4224421545" seo="true" mt="1506369016075" redirect="true"/>
 </manifest>
