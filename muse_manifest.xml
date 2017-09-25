@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1506369085495">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1506370581661">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4024607953" ref="phone>index"/>
+      <file name="index.css" crc="3842200739" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="379382726" seo="true" mt="1506369074176" redirect="true"/>
+    <file name="index.html" crc="4100152530" seo="true" mt="1506370573906" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="tecb_variation.mp3" crc="391059753" seo="true" mt="1482158704000"/>
@@ -29,6 +29,7 @@
     <file name="dsc_0437.jpg" crc="3798931291" seo="true" ref="index"/>
     <file name="1449671272044.jpg" crc="186552839" seo="true" ref="index:phone>index"/>
     <file name="giphy.gif" crc="387255731" seo="true" ref="index:phone>index"/>
+    <file name="giphy (1).gif" crc="3891445880" seo="true" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="4224421545" seo="true" mt="1506369016075" redirect="true"/>
 </manifest>
