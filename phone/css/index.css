@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #0354A3;
+	color: #0000E1;
+	background-color: #0D58ED;
 }
 
 @-ms-viewport
@@ -74,16 +74,29 @@
 #pu295
 {
 	width: 0.01px;
-	margin-left: -94px;
+	margin-left: 1px;
 }
 
 #u295
 {
 	z-index: 2;
-	width: 564px;
+	width: 380px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u295_clip
+{
+	overflow: hidden;
+	width: 380px;
+	height: 451px;
+}
+
+#u295_img
+{
+	margin-left: -95px;
+	margin-right: -89px;
 }
 
 #u305
@@ -97,7 +110,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 342px;
-	left: 125px;
+	left: 30px;
 }
 
 #u307-8
@@ -110,7 +123,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 386px;
-	left: 132px;
+	left: 37px;
 }
 
 #pu203
