@@ -13,14 +13,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://atlier.der.a.com/assets/vadi_test.wav</loc>
+    <lastmod>2017-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atlier.der.a.com/assets/hall.wav</loc>
+    <lastmod>2017-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://atlier.der.a.com/images/dsc_0437.jpg</loc>
-    <lastmod>2016-12-28</lastmod>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atlier.der.a.com/images/1449671272044.jpg</loc>
+    <lastmod>2017-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://atlier.der.a.com/images/giphy.gif</loc>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://atlier.der.a.com/index.html</loc>
-    <lastmod>2016-12-28</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://atlier.der.a.com/phone/index.html"/>

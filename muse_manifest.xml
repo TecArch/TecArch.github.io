@@ -1,30 +1,34 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1482941637128">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="atlier.der.a.com" resolutions="1x" timestamp="1506369085495">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="281862853" ref="phone>index"/>
+      <file name="index.css" crc="4024607953" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4163937722" seo="true" mt="1482941626918" redirect="true"/>
+    <file name="index.html" crc="379382726" seo="true" mt="1506369074176" redirect="true"/>
   </folder>
   <folder name="assets">
     <file name="tecb_variation.mp3" crc="391059753" seo="true" mt="1482158704000"/>
     <file name="natu.mp3" crc="468636368" seo="true" mt="1482937583000"/>
+    <file name="vadi_test.wav" crc="190875004" seo="true" mt="1495448032000"/>
+    <file name="hall.wav" crc="4003800182" seo="true" mt="1495484050000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="494712262" ref="index"/>
+    <file name="index.css" crc="4015791417" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index"/>
     <file name="museutils.js" crc="183364071" ref="index:phone>index"/>
     <file name="jquery.watch.js" crc="71412426" ref="index:phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:phone>index"/>
     <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="dsc_0437.jpg" crc="3798931291" seo="true" ref="index"/>
-    <file name="dsc_0437-crop-u203.jpg" crc="3885919454" ref="phone>index"/>
-    <file name="20121112_103849-crop-u208.jpg" crc="381628938" ref="index"/>
     <file name="20121112_103849-crop-u214.jpg" crc="11698573" ref="phone>index"/>
+    <file name="dsc_0437-crop-u203.jpg" crc="3885919454" ref="phone>index"/>
+    <file name="20121112_103849-crop-u208.jpg" crc="4169883816" ref="index"/>
+    <file name="dsc_0437.jpg" crc="3798931291" seo="true" ref="index"/>
+    <file name="1449671272044.jpg" crc="186552839" seo="true" ref="index:phone>index"/>
+    <file name="giphy.gif" crc="387255731" seo="true" ref="index:phone>index"/>
   </folder>
-  <file name="index.html" crc="156393575" seo="true" mt="1482940778384" redirect="true"/>
+  <file name="index.html" crc="4224421545" seo="true" mt="1506369016075" redirect="true"/>
 </manifest>
